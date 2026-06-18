@@ -14,9 +14,8 @@ Each project is designed to explore new concepts and turn them into practical, w
 
 ## 🌱 I’m currently learning
 
-Currently studying at Northcoders, diving deeper into C#/.NET full-stack development.  
+Currently diving deeper into C#/.NET full-stack development.  
 Exploring how things work behind the scenes and building a stronger foundation.
-Taking steps that could eventually lead towards game development.
 
 <!--
 **vasswann/vasswann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
