@@ -12,11 +12,6 @@ Game development is something I’d love to explore in the future.
 **React Quest** – a series of projects focused on building React applications from beginner to more advanced levels.  
 Each project is designed to explore new concepts and turn them into practical, working solutions.
 
-## 🌱 I’m currently learning
-
-Currently diving deeper into C#/.NET full-stack development.  
-Exploring how things work behind the scenes and building a stronger foundation.
-
 <!--
 **vasswann/vasswann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
